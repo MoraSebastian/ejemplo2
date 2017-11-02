@@ -3,7 +3,7 @@ package prueba;
 import java.util.ArrayList;
 
 public class Cajero {
-	private static Cajero cajero= null;
+	
 	private static int cantidadCajeros=0;
 	private String nombreCajero;
 	public ArrayList <Integer> personasEnCajero=new ArrayList<Integer>();  
