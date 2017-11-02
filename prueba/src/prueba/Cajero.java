@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Cajero {
 	
-	private static int cantidadCajeros=0;
+	private static int cantidadCajeros=20000000;
 	private String nombreCajero;
 	public ArrayList <Integer> personasEnCajero=new ArrayList<Integer>();  
 	
